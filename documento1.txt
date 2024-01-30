@@ -1,4 +1,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- Fusce cursus suscipit ante non accumsan.
- Cras consequat mauris mollis efficitur feugiat
+Fusce cursus suscipit ante non accumsan.
+Cras consequat mauris mollis efficitur feugiat
 Esto es una parte de un Lorem ipsum de 90 palabras
+ Esta es la siguiente parte del nuevo Lorem ipsum:
+ feugiat vel eleifend et, dictum pellentesque risus. 
+ Fusce tincidunt euismod tristique. 
+ Nunc vitae tincidunt dui, a tristique enim.
