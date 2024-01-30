@@ -2,3 +2,6 @@ Pellentesque sit amet elementum magna.
 Nunc id libero eleifend, rutrum arcu eget, ornare 
 ante. Nunc sed nisi ullamcorper,
 Esto es otra de las partes del Lorem ipsum generado para esta practica
+Lo siguiente es de un Lorem ipsum  nuevo generado de 120 palabras:
+Lorem ipsum dolor sit amet, consectetur 
+adipiscing elit. Sed urna lorem
