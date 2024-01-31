@@ -23,6 +23,7 @@ Esta es una lista de los comandos que he utilizado y para que sirven:
 -  **git push origin nombre de la etiqueta:** Para enviar la etiqueta al repositorio remoto
 -  **git merge nombre de la rama que se quiere fusionar  despues nombre de la rama donde se va a fusionar:** Fusiona dos ramas
 -  **git pull origin main:** Para traer cambios del repositorio remoto al local
+-  **git clone más url:** Para clonar del repositorio remoto al local
 
 Para poder crear este markdown  he utiliza este pagina web para hacer las diferentes cosas:[Pagina de codigo Markdown](https://markdown.es/sintaxis-markdown/#links)
  
