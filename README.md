@@ -17,6 +17,7 @@ Esta es una lista de los comandos que he utilizado y para que sirven:
 -  **git log oneline:** \(*Faltaria dos guiones antes de oneline*) Sirve para mostrar los commit ordenados
 -  **git branch nombre de una rama nueva:** Sirve para crear una rama
 -  **git checkout nombre de la rama:** Cambiamos de una rama a otra
+-  **git branch M main:**( Faltaria un - antes de M) Cambia el nombre de la rama del local de master a main
 -  **git branch a:**\(*Faltaria el guion antes de la a*) Es para ver todas las ramas
 -  **git branch d:**\(*Faltaria el guion antes de la d*) Sirve para eliminar ramas
 -  **git tag a nombre de la etiqueta m mensaje:** \(*Faltaria los guiones antes de la a y antes de la m*) Para crear una etiqueta
